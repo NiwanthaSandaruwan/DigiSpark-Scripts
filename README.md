@@ -26,4 +26,4 @@ Here are some common use cases for DigiSpark and its associated scripts:
 
 ### Responsible Use
 
-Keep in mind that while DigiSpark can be a fun and educational tool, using it inappropriately or maliciously can have serious legal and ethical consequences. Always use DigiSpark and any associated scripts responsibly and in compliance with applicable laws and regulations.
+Note :- Keep in mind that while DigiSpark can be a fun and educational tool, using it inappropriately or maliciously can have serious legal and ethical consequences. Always use DigiSpark and any associated scripts responsibly and in compliance with applicable laws and regulations.
