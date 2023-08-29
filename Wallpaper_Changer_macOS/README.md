@@ -1,4 +1,4 @@
-# macOS Wallpaper Changer
+# MacOS Wallpaper Changer
 
 This script launches Spotlight to launch Terminal.app in order to download a picture, and sets it as a wallpaper, in less than 3 seconds.
 
